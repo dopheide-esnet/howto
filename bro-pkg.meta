@@ -1,0 +1,4 @@
+[package]
+description = Logs zeek.org connections
+script_dir = scripts
+tags = zeek, zeek.org, howto
